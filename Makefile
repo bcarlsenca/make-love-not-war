@@ -1,7 +1,3 @@
-# global service name
-SERVICE                 := make-love-not-war
-
-.PHONY: love not war
 
 love:
 	@cat love.txt
